@@ -1,0 +1,23 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  background-color: lightgray;
+  color: midnightblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color: rgba(255, 166, 0, 0.598);
+}
+
+.recipes-list {
+  list-style: none;
+  font-size: 18px;
+}
